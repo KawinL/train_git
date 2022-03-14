@@ -3,5 +3,3 @@
 This is master
 
 Add staging
-
-change
