@@ -1,1 +1,2 @@
-select 1+1
+select *
+from test
